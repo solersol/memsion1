@@ -570,10 +570,18 @@ p {
 }
 
 .banner-txt h3 {
-    font-size: 36px;
+    font-size: 56px;
     font-family: pb;
     color: #FFC000;
-    line-height: 45px;
+    line-height: 55px;
+    padding-bottom: 23px;
+    padding-top: 16px;
+}
+.banner-txt h2{
+    font-size: 48px;
+    font-family: pb;
+    color: #957412;
+    line-height: 55px;
     padding-bottom: 23px;
     padding-top: 16px;
 }
@@ -820,7 +828,7 @@ p {
     line-height: 60px;
     border-radius: 50%;
     text-align: center;
-    background: #f8615a;
+    background: #FFC000;
 }
 
 .over-item h3 {
